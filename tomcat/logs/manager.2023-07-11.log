@@ -1,0 +1,8 @@
+11-Jul-2023 10:14:57.565 情報 [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+11-Jul-2023 10:14:57.565 情報 [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+11-Jul-2023 10:14:57.569 情報 [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2023 10:15:20.115 情報 [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: restart: Reloading web application '/book'
+11-Jul-2023 10:15:20.315 情報 [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2023 10:16:58.415 情報 [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+11-Jul-2023 10:22:33.513 情報 [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/book-deploy'
+11-Jul-2023 10:22:34.099 情報 [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

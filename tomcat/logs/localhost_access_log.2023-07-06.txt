@@ -1,0 +1,12 @@
+127.0.0.1 - - [06/Jul/2023:10:04:55 +0900] "GET /book/chapter18/get HTTP/1.1" 200 595
+127.0.0.1 - - [06/Jul/2023:10:05:05 +0900] "GET /book/chapter21/el4.jsp HTTP/1.1" 500 3021
+127.0.0.1 - - [06/Jul/2023:10:06:27 +0900] "GET /book/chapter21/el4.jsp HTTP/1.1" 500 2760
+127.0.0.1 - - [06/Jul/2023:10:06:27 +0900] "GET /favicon.ico HTTP/1.1" 304 -
+127.0.0.1 - - [06/Jul/2023:10:06:46 +0900] "GET /book/chapter21/el4.jsp HTTP/1.1" 200 183
+127.0.0.1 - - [06/Jul/2023:10:19:56 +0900] "GET /book/chapter21/el5-1.jsp HTTP/1.1" 404 1061
+127.0.0.1 - - [06/Jul/2023:10:20:29 +0900] "GET /book/chapter21/el5-1.jsp HTTP/1.1" 200 324
+127.0.0.1 - - [06/Jul/2023:10:20:35 +0900] "POST /book/chapter21/el5-2.jsp HTTP/1.1" 200 158
+127.0.0.1 - - [06/Jul/2023:10:23:06 +0900] "GET /book/chapter21/el6.jsp/?user=myname HTTP/1.1" 404 1059
+127.0.0.1 - - [06/Jul/2023:10:23:26 +0900] "GET /book/chapter21/el6.jsp?user=myname HTTP/1.1" 200 150
+127.0.0.1 - - [06/Jul/2023:10:23:33 +0900] "GET /book/chapter21/el6.jsp?user=mynameisAAAAA HTTP/1.1" 200 165
+127.0.0.1 - - [06/Jul/2023:14:16:44 +0900] "GET /book/chapter21/el6.jsp?user=mynameisAAAAA HTTP/1.1" 200 165
